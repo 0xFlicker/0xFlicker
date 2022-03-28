@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CmdrNFT
+- 👋 Hi, I’m @0xFlicker
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning ethereum smart contracts
 - 💞️ I’m looking to collaborate on web3
