@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xFlicker
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning ethereum smart contracts
+- 👀 I’m interested in communities
+- 🌱 I’m currently BUIDLING
 - 💞️ I’m looking to collaborate on web3
 - 📫 DM https://twitter.com/0xFlick
 
